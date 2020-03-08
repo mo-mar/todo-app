@@ -1,3 +1,7 @@
+This here thing is a little todo app I am building for fun with React (original, I know.)
+
+--
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
